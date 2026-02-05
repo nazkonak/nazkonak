@@ -20,7 +20,11 @@
 - Python
 - Java
 - SQL
-- C / Assembly (temel)
+- C
+- C#
+- HTML
+- PHP
+- CSS
 
 **Araçlar & Teknolojiler**
 - Git & GitHub
@@ -32,9 +36,10 @@
 
 ## 📌 Üzerinde Çalıştığım Konular
 
-- 📊 Veri Analizi (Python, Pandas, Numpy, JupyterNotebook)
+- 📊 Veri Analizi (Python, Pandas, NumPy, Jupyter Notebook)
 - 🤖 Yapay Zekâ & Görüntü İşleme (başlangıç seviyesi)
-- 🗄️ Veritabanı Tasarımı & Oracle SQL, MySQL
+- 🗄️ Veritabanı Tasarımı & SQL (Oracle SQL, MySQL)
+- 🌐 Web Geliştirme (HTML, CSS, JavaScript, PHP)
 - ⚙️ Embedded Systems (öğrenme aşamasında)
 
 ---
