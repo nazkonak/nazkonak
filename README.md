@@ -27,13 +27,7 @@
 - HTML
 - PHP
 - CSS
-
-**Araçlar & Teknolojiler**
-- Git & GitHub
-- Oracle SQL / MySQL / SQLite
-- VS Code / IntelliJ IDEA
-- Linux (temel)
-
+  
 ---
 
 ## 📌 Üzerinde Çalıştığım Konular
