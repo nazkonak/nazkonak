@@ -40,13 +40,6 @@
 
 ---
 
-## 📈 GitHub İstatistiklerim
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nazkonak&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazkonak&layout=compact&theme=tokyonight)
-
----
-
 ## 🌱 Şu Anda Öğreniyorum
 
 - Python ile ileri seviye veri analizi  
