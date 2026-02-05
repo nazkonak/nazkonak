@@ -1,16 +1,64 @@
-## Hi there 👋
+# 👋 Merhaba, ben Naz Konak 👩‍💻
 
-<!--
-**nazkonak/nazkonak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Bilgisayar Mühendisliği öğrencisiyim  
+🤖 Yapay zekâ, görüntü işleme, veri analizi ve gömülü sistemlerle ilgileniyorum  
+🚀 Öğrenmeyi ve üretmeyi seviyorum
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Hakkımda
+
+- 🔍 Veri analizi ve yapay zekâ temellerini öğreniyorum  
+- 🧠 Python ile data analysis & image processing üzerine çalışıyorum  
+- ⚙️ Embedded systems ve low-level konulara ilgim var   
+
+---
+
+## 🛠️ Kullandığım Teknolojiler
+
+**Diller**
+- Python
+- Java
+- SQL
+- C / Assembly (temel)
+
+**Araçlar & Teknolojiler**
+- Git & GitHub
+- Oracle SQL / MySQL / SQLite
+- VS Code / IntelliJ IDEA
+- Linux (temel)
+
+---
+
+## 📌 Üzerinde Çalıştığım Konular
+
+- 📊 Veri Analizi (Python, Pandas, Numpy, JupyterNotebook)
+- 🤖 Yapay Zekâ & Görüntü İşleme (başlangıç seviyesi)
+- 🗄️ Veritabanı Tasarımı & Oracle SQL, MySQL
+- ⚙️ Embedded Systems (öğrenme aşamasında)
+
+---
+
+## 📈 GitHub İstatistiklerim
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=tokyonight)
+
+---
+
+## 🌱 Şu Anda Öğreniyorum
+
+- Python ile ileri seviye veri analizi  
+- Image Processing temelleri  
+- Embedded sistemler için donanım-yazılım ilişkisi  
+
+---
+
+## 📫 Bana Ulaş
+
+- 💼 LinkedIn: https://www.linkedin.com/in/naz-konak/
+- 📮 Mail: nisanazkonak@gmail.com 
+
+---
+
+>⭐ Profilime göz attığınız için teşekkürler!
