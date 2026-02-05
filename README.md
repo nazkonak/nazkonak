@@ -4,13 +4,15 @@
 🤖 Yapay zekâ, görüntü işleme, veri analizi ve gömülü sistemlerle ilgileniyorum  
 🚀 Öğrenmeyi ve üretmeyi seviyorum
 
+
 ---
 
 ## 💡 Hakkımda
 
 - 🔍 Veri analizi ve yapay zekâ temellerini öğreniyorum  
 - 🧠 Python ile data analysis & image processing üzerine çalışıyorum  
-- ⚙️ Embedded systems ve low-level konulara ilgim var   
+- ⚙️ Embedded systems ve low-level konulara ilgim var
+- 🌐 Küçük ölçekli web sitesi ve uygulama projeleri geliştiriyorum
 
 ---
 
