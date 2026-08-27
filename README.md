@@ -56,4 +56,4 @@
 
 ---
 
->⭐ Profilime göz attığınız için teşekkürler!
+>⭐ Profilime göz attığınız için teşekkürler! İşte Portfolyom: https://nazkonak.github.io/portfolio/
