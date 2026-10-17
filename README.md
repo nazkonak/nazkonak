@@ -1,6 +1,6 @@
 # 👋 Merhaba, ben Naz Konak 👩‍💻
 
-🎓 Bilgisayar Mühendisliği 3. sınıf öğrencisiyim  
+🎓 Bilgisayar Mühendisliği 4. sınıf öğrencisiyim  
 🤖 Yapay zekâ, görüntü işleme, veri analizi ve gömülü sistemlerle ilgileniyorum  
 🚀 Öğrenmeyi ve üretmeyi seviyorum
 
